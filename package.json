@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-robot",
+  "version": "1.0.0",
+  "description": "the movment of robot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbkProgrammer/nodejs-robot.git"
+  },
+  "author": "mbkProgrammer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbkProgrammer/nodejs-robot/issues"
+  },
+  "homepage": "https://github.com/mbkProgrammer/nodejs-robot#readme"
+}
